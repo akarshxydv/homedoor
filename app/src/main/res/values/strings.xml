@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">homedoor</string>
+    <string name="lgtxt1">Unlock Your Door!</string>
+    <string name="lguser">User Id</string>
+    <string name="lgemail">Enter Your Email</string>
+    <string name="lgpass">Password</string>
+    <string name="lgpas">Enter Your Password</string>
+    <string name="lgsend">Unlock It</string>
+    <string name="lgDont">Don`t have door?</string>
+    <string name="lgfor">Forget Password?</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="s3txt1">Registor Your Door</string>
+    <string-array name="spinner">
+        <item>Choose Your Country</item>
+        <item>India</item>
+        <item>USA</item>
+        <item>Australia</item>
+        <item>England</item>
+        <item>France</item>
+        <item>Canada</item>
+    </string-array>
+
+
+</resources>
